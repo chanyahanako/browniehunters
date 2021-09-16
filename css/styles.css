@@ -580,11 +580,12 @@ footer a:hover {
     .article-image {
         width: 48%;
         width: 100%;
+        height: auto !important;
         margin-bottom: .75rem;
         /* margin-right: .75rem; */
         /* height: fit-content; */
         /* height: 102px; */
-        height: 183.44px;
+        /* height: 183.44px; */
     }
     .article-image:last-child {
         margin-bottom: 0;
