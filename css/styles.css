@@ -497,6 +497,11 @@ footer a:hover {
     .h1, h1 {
         font-size: 2rem;
     }
+    .brownie-icon {
+        width: 28px;
+        margin-top: 0;
+        margin-right: 6px;
+    }
 }
 
 @media only screen and (max-width: 660px) {
@@ -542,6 +547,10 @@ footer a:hover {
     .title-header-image {
         margin-bottom: .75rem;
     }
+    .brownie-icon {
+        width: 26px;
+        margin-right: 6px;
+    }
     .merry-card {
         flex-direction: column-reverse;
         padding: .625rem;
@@ -552,7 +561,8 @@ footer a:hover {
         margin-top: .75rem;
     }
     .image-section {
-        margin-top: 1.25rem;
+        /* margin-top: 1.25rem; */
+        padding: 1.25rem 0 .5rem;
     }
     .image-box {
         display: flex;
@@ -581,7 +591,8 @@ footer a:hover {
         font-size: .875rem;
     }
     .copyrights {
-        padding-top: .5rem;
+        /* padding-top: .5rem; */
+        padding: .5rem .5rem 0;
     }
     ol, ul {
         padding-left: 1rem;
