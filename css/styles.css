@@ -566,15 +566,17 @@ footer a:hover {
     }
     .image-box {
         display: flex;
+        /* align-content: unset; */
+        height: 102px;
     }
     .figure-text {
         font-size: .875rem;
     }
     .article-image {
-        width: 48.5%;
+        width: 48%;
         margin-bottom: .75rem;
         margin-right: .75rem;
-        height: fit-content;
+        /* height: fit-content; */
     }
     .article-image:last-child {
         margin-bottom: 0;
