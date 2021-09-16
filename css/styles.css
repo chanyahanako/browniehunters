@@ -546,7 +546,7 @@ footer a:hover {
         flex-direction: column-reverse;
         padding: .625rem;
         margin: 1.5rem .5rem;
-        margin: 0.75rem .5rem;
+        margin: 0.75rem .25rem;
     }
     .article-image-list {
         margin-top: .75rem;
@@ -564,6 +564,7 @@ footer a:hover {
         width: 48.5%;
         margin-bottom: .75rem;
         margin-right: .75rem;
+        height: fit-content;
     }
     .article-image:last-child {
         margin-bottom: 0;
@@ -581,5 +582,8 @@ footer a:hover {
     }
     .copyrights {
         padding-top: .5rem;
+    }
+    ol, ul {
+        padding-left: 1rem;
     }
 }
