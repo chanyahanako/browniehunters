@@ -568,8 +568,8 @@ footer a:hover {
         display: flex;
         /* align-content: unset; */
         /* height: 102px; */
-        height: 89px;
-        margin-bottom: .75rem;
+        /* height: 89px; */
+        /* margin-bottom: .75rem; */
     }
     .image-box:last-child {
         margin-bottom: 0;
@@ -579,11 +579,11 @@ footer a:hover {
     }
     .article-image {
         width: 48%;
-        /* margin-bottom: .75rem; */
+        margin-bottom: .75rem;
         margin-right: .75rem;
         /* height: fit-content; */
         /* height: 102px; */
-        height: 89px;
+        height: auto;
     }
     .article-image:last-child {
         margin-bottom: 0;
