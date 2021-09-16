@@ -567,7 +567,7 @@ footer a:hover {
     .image-box {
         display: flex;
         /* align-content: unset; */
-        height: 102px;
+        /* height: 102px; */
     }
     .figure-text {
         font-size: .875rem;
@@ -595,7 +595,10 @@ footer a:hover {
     }
     .copyrights {
         /* padding-top: .5rem; */
-        padding: .5rem .5rem 0;
+        padding: .5rem 0 0;
+    }
+    .copyrights-company {
+        display: block;
     }
     ol, ul {
         padding-left: 1rem;
