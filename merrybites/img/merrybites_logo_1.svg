@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="582" height="603" viewBox="0 0 582 603">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.904" y1="0.052" x2="0.115" y2="0.965" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#90cbc8"/>
+      <stop offset="0.532" stop-color="#9c9ece"/>
+      <stop offset="1" stop-color="#4665b1"/>
+    </linearGradient>
+    <filter id="Rectangle_24" x="0" y="0" width="582" height="603" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dedede"/>
+    </linearGradient>
+    <filter id="brownie" x="30.5" y="29.5" width="531" height="549" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="merrybites_logo_1" transform="translate(8330 -7992)">
+    <g transform="matrix(1, 0, 0, 1, -8330, 7992)" filter="url(#Rectangle_24)">
+      <rect id="Rectangle_24-2" data-name="Rectangle 24" width="564" height="585" rx="143" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <rect id="brownie-2" data-name="brownie" width="486" height="504" rx="100" transform="translate(-8282 8039)" fill="url(#linear-gradient-2)"/>
+    <g id="brownie-3" data-name="brownie" transform="translate(-8282 8039)" stroke="#d8d8d8" stroke-width="4" fill="url(#linear-gradient-2)">
+      <rect width="486" height="504" rx="100" stroke="none"/>
+      <rect x="2" y="2" width="482" height="500" rx="98" fill="none"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -8330, 7992)" filter="url(#brownie)">
+      <g id="brownie-4" data-name="brownie" transform="translate(48 47)" stroke="rgba(46,66,119,0.21)" stroke-width="4" fill="url(#linear-gradient-2)">
+        <rect width="486" height="504" rx="100" stroke="none"/>
+        <rect x="2" y="2" width="482" height="500" rx="98" fill="none"/>
+      </g>
+    </g>
+    <text id="Merry" transform="translate(-8249 8278)" fill="rgba(87,93,114,0.6)" font-size="164" font-family="Optima-Regular, Optima"><tspan x="0" y="0">Merry</tspan></text>
+    <text id="bites" transform="translate(-8250 8411)" fill="#313e6c" font-size="164" font-family="Optima-Regular, Optima"><tspan x="0" y="0">bites</tspan></text>
+    <text id="bites-2" data-name="bites" transform="translate(-8247 8411)" fill="#313e6c" font-size="164" font-family="Optima-Regular, Optima"><tspan x="0" y="0">bites</tspan></text>
+    <text id="bites-3" data-name="bites" transform="translate(-8250 8414)" fill="#313e6c" font-size="164" font-family="Optima-Regular, Optima"><tspan x="0" y="0">bites</tspan></text>
+    <text id="bites-4" data-name="bites" transform="translate(-8247 8414)" fill="#313e6c" font-size="164" font-family="Optima-Regular, Optima"><tspan x="0" y="0">bites</tspan></text>
+  </g>
+</svg>
